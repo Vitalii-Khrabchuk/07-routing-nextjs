@@ -15,7 +15,7 @@ export default function Footer() {
               href="https://github.com/Vitalii-Khrabchuk"
               target="_blank"
             >
-              Linkedin
+              GitHub
             </Link>
           </p>
         </div>
